@@ -7,3 +7,4 @@ typechain
 #Hardhat files
 cache
 artifacts
+.clj-kondo/.cache/2021.09.25/lock
